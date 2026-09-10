@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-09-10T05:09:54Z",
+  "since_hours": 48,
+  "limit": 500,
+  "count": 500,
+  "sources": [
+    "greenhouse",
+    "ashby",
+    "lever",
+    "workday",
+    "eightfold"
+  ]
+}
